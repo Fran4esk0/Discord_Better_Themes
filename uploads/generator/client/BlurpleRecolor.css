@@ -1,4 +1,4 @@
-﻿@import url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/client/ThemeDevBadge.css);
+﻿@import url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/client/ThemeDevBadge.css);
 
 :root {
 	--daccentcolor: 114,137,218;
@@ -145,18 +145,18 @@
 	background: url(https://discord.com/assets/8fdb69b7684b8e1ecb3fdde909daca41.svg) center 35px no-repeat;
 }
 .channelNotice-1-XFjC.premiumGuildSubscription-3oKecP {
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/channelnotice_premium_bg.svg) center 23px no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/channelnotice_premium_bg.svg) center 23px no-repeat;
 }
 .channelNotice-1-XFjC.premiumGuildSubscription-3oKecP::after {
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/channelnotice_premium_accent.svg) center 23px no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/channelnotice_premium_accent.svg) center 23px no-repeat;
 }
 .channelNotice-1-XFjC.publicUpsell-31ZSJ8::before {
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/channelnotice_upsell_bg.svg) center 12px no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/channelnotice_upsell_bg.svg) center 12px no-repeat;
 }
 .channelNotice-1-XFjC.publicUpsell-31ZSJ8::after {
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/channelnotice_upsell_accent.svg) center 12px no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/channelnotice_upsell_accent.svg) center 12px no-repeat;
 }
 
 
@@ -272,7 +272,7 @@
 															/* textarea				follow channel icon					*/
 .image-3XsqGc[src="/assets/dc7e9e55b3a6d39d24acdd650ecc2ef3.svg"] {
 	object-position: -999999px -999999px;
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/chatnotice_followchannel_bg.svg) center/contain no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/chatnotice_followchannel_bg.svg) center/contain no-repeat;
 	width: 47px;
 	height: 60px;
 	margin-bottom: -8px;
@@ -289,12 +289,12 @@
 	height: 60px;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/chatnotice_followchannel_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/chatnotice_followchannel_accent.svg) center/contain no-repeat;
 }
 															/* textarea				verify email icon					*/
 .image-3XsqGc[src="/assets/b0df989dede2e65a2d631874ffe04de0.svg"] {
 	object-position: -999999px -999999px;
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/chatnotice_verifyemail_bg.svg) center/contain no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/chatnotice_verifyemail_bg.svg) center/contain no-repeat;
 	width: 65px;
 	height: 60px;
 	margin-bottom: -16px;
@@ -311,7 +311,7 @@
 	height: 60px;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/chatnotice_verifyemail_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/chatnotice_verifyemail_accent.svg) center/contain no-repeat;
 }
 
 /* ----		3.3.	AUTOCOMPLETEMENU				---- */
@@ -384,7 +384,7 @@
 	height: 160px;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/searchpage_noresults_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/searchpage_noresults_accent.svg) center/cover no-repeat;
 }
 
 /* ----		3.6.	CALL							---- */
@@ -534,7 +534,7 @@
 .confirmPremiumIcon-26GX5Y,									/* store				confirmpremiumicon					*/
 .gameIcon-gg34Dz[style*="/assets/f6cbcdc9366fb8d31e03bdc6c9c50246.svg"] {
 	background-color: rgb(255, 255, 255) !important;
-	background-image: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/nitrobadge_details.svg), linear-gradient(90deg, rgb(var(--vaccentcolor)), rgba(var(--vaccentcolor), 0.5)) !important;
+	background-image: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/nitrobadge_details.svg), linear-gradient(90deg, rgb(var(--vaccentcolor)), rgba(var(--vaccentcolor), 0.5)) !important;
 }
 .pageWrapper-3F6owx {										/* store				pagewrapper							*/
 	background: white linear-gradient(114deg, rgb(var(--vaccentcolor)), rgba(var(--vaccentcolor), 0.6));
@@ -625,7 +625,7 @@
 
 .marketingLogoImage-2SzXIR {								/* boostsettings		boost header						*/
 	position: relative;
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_boostheader_bg.svg) center/cover no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_boostheader_bg.svg) center/cover no-repeat;
 }
 .marketingLogoImage-2SzXIR::after {
 	content: "";
@@ -636,7 +636,7 @@
 	left: 0;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_boostheader_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_boostheader_accent.svg) center/cover no-repeat;
 }
 #app-mount .tierUnlocked-27DwHo {							/* boostsettings		tierunlocked						*/
 	color: rgb(var(--vaccentcolor));
@@ -672,7 +672,7 @@
 }
 .profileBadgeIcon-_ctnKj {									/* boostsettings		perkicon badge						*/
 	position: relative;
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/usersettings_boostbadge_bg.svg) center/contain no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/usersettings_boostbadge_bg.svg) center/contain no-repeat;
 }
 .profileBadgeIcon-_ctnKj::after {
 	content: "";
@@ -683,7 +683,7 @@
 	left: 0;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor2));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/usersettings_boostbadge_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/usersettings_boostbadge_accent.svg) center/contain no-repeat;
 }
 .premiumGuildIcon-13KUPa {									/* boostsettings		perkicon premium					*/
 	color: rgb(var(--vaccentcolor2));
@@ -713,25 +713,25 @@
 	left: 0;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/empty.svg) center/cover no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/empty.svg) center/cover no-repeat;
 }
 .perkNewsletter-2lxlA1 {
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/usersettings_hypeperk1_bg.svg) center/cover no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/usersettings_hypeperk1_bg.svg) center/cover no-repeat;
 }
 .perkNewsletter-2lxlA1::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/usersettings_hypeperk1_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/usersettings_hypeperk1_accent.svg) center/cover no-repeat;
 }
 .perkBadge-2la1kc {
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/usersettings_hypeperk2_bg.svg) center/cover no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/usersettings_hypeperk2_bg.svg) center/cover no-repeat;
 }
 .perkBadge-2la1kc::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/usersettings_hypeperk2_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/usersettings_hypeperk2_accent.svg) center/cover no-repeat;
 }
 .perkChallenges-19qHzw {
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/usersettings_hypeperk3_bg.svg) center/cover no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/usersettings_hypeperk3_bg.svg) center/cover no-repeat;
 }
 .perkChallenges-19qHzw::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/usersettings_hypeperk3_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/usersettings_hypeperk3_accent.svg) center/cover no-repeat;
 }
 
 .wrapper-3jrx9n {											/* overlaysettings		positionsettings wrapper			*/
@@ -747,7 +747,7 @@
 															/* streamermodesettings	headerimage							*/
 .noticeIcon-1phvR2[src="/assets/616e078b351d0df460971441949c53a3.svg"] {
 	object-position: -999999px -999999px;
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_streamermode_bg.svg) center/contain no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_streamermode_bg.svg) center/contain no-repeat;
 }
 .noticeIcon-1phvR2[src="/assets/616e078b351d0df460971441949c53a3.svg"] + * {
 	position: relative;
@@ -764,10 +764,10 @@
 }
 .noticeIcon-1phvR2[src="/assets/616e078b351d0df460971441949c53a3.svg"] + *::before {
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_streamermode_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_streamermode_accent.svg) center/contain no-repeat;
 }
 .noticeIcon-1phvR2[src="/assets/616e078b351d0df460971441949c53a3.svg"] + *::after {
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_streamermode_details.svg) center/contain no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_streamermode_details.svg) center/contain no-repeat;
 }
 
 
@@ -782,7 +782,7 @@
 	height: 310px !important;
 	min-width: 320px !important;
 	background: var(--background-tertiary);
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_widget_bg.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_widget_bg.svg) center/contain no-repeat;
 }
 .layer-3QrUeG[aria-label="GUILD_SETTINGS"] .contentRegion-3nDuYy .contentColumn-2hrIYH > div > div > .divider-3573oO + .flex-1xMQg5 + .divider-3573oO + .flex-1xMQg5:last-of-type::before,
 .layer-3QrUeG[aria-label="GUILD_SETTINGS"] .contentRegion-3nDuYy .contentColumn-2hrIYH > div > div > .divider-3573oO + .flex-1xMQg5 + .divider-3573oO + .flex-1xMQg5:last-of-type::after {
@@ -796,11 +796,11 @@
 }
 .layer-3QrUeG[aria-label="GUILD_SETTINGS"] .contentRegion-3nDuYy .contentColumn-2hrIYH > div > div > .divider-3573oO + .flex-1xMQg5 + .divider-3573oO + .flex-1xMQg5:last-of-type::before {
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_widget_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_widget_accent.svg) center/contain no-repeat;
 }
 .layer-3QrUeG[aria-label="GUILD_SETTINGS"] .contentRegion-3nDuYy .contentColumn-2hrIYH > div > div > .divider-3573oO + .flex-1xMQg5 + .divider-3573oO + .flex-1xMQg5:last-of-type::after {
 	background: var(--header-primary);
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_widget_details.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_widget_details.svg) center/contain no-repeat;
 }
 
 @-webkit-keyframes pulseBorder-1LZYy9 { 					/* intergrationsettings	new webhook							*/
@@ -816,7 +816,7 @@
 
 
 .placeholderImage-37MstR {									/* discoverysettings	insight								*/
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_insight_bg.svg) center/cover no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_insight_bg.svg) center/cover no-repeat;
 }
 .placeholderImage-37MstR::after {
 	content: "";
@@ -827,13 +827,13 @@
 	left: 0;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_insight_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_insight_accent.svg) center/cover no-repeat;
 }
 															/* discoverysettings	partner program						*/
 .banner-2AwsUs[src="/assets/b3d9ebeb2259945abe78c49206f5b62d.svg"] {
 	object-position: -999999px -999999px;
 	filter: grayscale(0.5);
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_partnerprogram_bg.svg) center/cover no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_partnerprogram_bg.svg) center/cover no-repeat;
 }
 .banner-2AwsUs[src="/assets/b3d9ebeb2259945abe78c49206f5b62d.svg"] + * {
 	position: relative;
@@ -848,7 +848,7 @@
     height: 241px;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_partnerprogram_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_partnerprogram_accent.svg) center/cover no-repeat;
 }
 
 .defaultIcon-2NMkWn {										/* discoverysettings	default guildicon					*/
@@ -859,7 +859,7 @@
 .requirementsImage-tqIP2X[src="/assets/ec3ea47d6b85de83ab2c298ddecf7df2.svg"],
 .headerIcon-2S6VR5[src="/assets/8bfa6300dd6ce22829ffa093fb87da9f.svg"] {
 	object-position: -999999999px -999999999px;
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_requirements_bg.svg) center/cover no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_requirements_bg.svg) center/cover no-repeat;
 }
 .requirementsImage-tqIP2X[src="/assets/ec3ea47d6b85de83ab2c298ddecf7df2.svg"] + *,
 .headerIcon-2S6VR5[src="/assets/8bfa6300dd6ce22829ffa093fb87da9f.svg"] + * {
@@ -876,7 +876,7 @@
 	height: 40px;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_requirements_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_requirements_accent.svg) center/cover no-repeat;
 }
 
 .featureIcon-3p1TC_ [fill="#7289da" i] {					/* communitysettings	intro		featureicon				*/
@@ -894,7 +894,7 @@
 .exampleWumpus-3QIhvG .wumpus-3Q6pSF,						/* communitysettings	rules		wumpus					*/
 .exampleWumpus-1zk2dq .wumpus-3JzuYd {						/* communitysettings	welcome		wumpus					*/
 	object-position: -999999px -999999px;
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_wumpus_bg.svg) center/cover no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_wumpus_bg.svg) center/cover no-repeat;
 }
 .exampleWumpus-3QIhvG::after,
 .exampleWumpus-1zk2dq::after {
@@ -904,7 +904,7 @@
 	height: 72px;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_wumpus_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_wumpus_accent.svg) center/cover no-repeat;
 }
 .exampleModal-2oh58d .guildInfo-3Co_-d,						/* communitysettings	rules		wumpus icon				*/
 .exampleModal-2X2Vf8 .guildIcon-1F8t_p + * {				/* communitysettings	rules		wumpus icon				*/
@@ -919,7 +919,7 @@
 .exampleModal-2X2Vf8 .guildIcon-1F8t_p {
 	object-position: -999999px -999999px;
 	border-radius: 10px;
-	background: white url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_wumpusicon_bg.svg) center/cover no-repeat;
+	background: white url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_wumpusicon_bg.svg) center/cover no-repeat;
 }
 .exampleModal-2oh58d .guildInfo-3Co_-d::after {
 	top: 0;
@@ -938,7 +938,7 @@
 	border-radius: 10px;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_wumpusicon_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_wumpusicon_accent.svg) center/cover no-repeat;
 }
 
 
@@ -1004,7 +1004,7 @@
 .icon-QM5383[src="/assets/79516499036b21acd5f56ccba0635c38.svg"] {
 	object-position: -999999px -999999px;
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildcreate_createown_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildcreate_createown_accent.svg) center/contain no-repeat;
 }
 .icon-QM5383[src="/assets/79516499036b21acd5f56ccba0635c38.svg"] + * {
 	position: relative;
@@ -1019,7 +1019,7 @@
 	width: 48px;
 	height: 48px;
 	pointer-events: none;
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildcreate_createown_bg.svg) center/contain no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildcreate_createown_bg.svg) center/contain no-repeat;
 }
 
 .uploadIcon-2IFzZU [fill="#7289da" i] {						/* create guild			upload icon							*/
@@ -1069,7 +1069,7 @@
 .uploadModal-2ifh8j .icon-kyxXVr:not(.image-2yrs5j),
 .uploadModalIn-1z07Bv .icon-kyxXVr:not(.image-2yrs5j) {
 	object-position: -999999px -999999px;
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/files_bg.svg) center/contain no-repeat !important;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/files_bg.svg) center/contain no-repeat !important;
 }
 .attachment-33OFj0 .icon-1kp3fr + *::before,
 .attachment-33OFj0 .icon-1kp3fr + *::after,
@@ -1128,67 +1128,67 @@
 .audioMetadata-3zOuGv > *:first-child::before,
 .uploadModal-2ifh8j .icon-kyxXVr:not(.image-2yrs5j)::before,
 .uploadModalIn-1z07Bv .icon-kyxXVr:not(.image-2yrs5j)::before {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/files_details.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/files_details.svg) center/contain no-repeat;
 }
 .attachment-33OFj0 .icon-1kp3fr + *::after,
 .uploadModal-2ifh8j .icon-kyxXVr.unknown-3TPTMr::after,
 .uploadModal-2ifh8j .icon-kyxXVr:not(.image-2yrs5j)::after,
 .uploadModalIn-1z07Bv .icon-kyxXVr:not(.image-2yrs5j)::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/empty.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/empty.svg) center/contain no-repeat;
 }
 .attachment-33OFj0 .icon-1kp3fr[title="acrobat"] + *::after,
 .uploadModal-2ifh8j .icon-kyxXVr.acrobat-3K1PC6::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/files_acrobat_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/files_acrobat_accent.svg) center/contain no-repeat;
 }
 .attachment-33OFj0 .icon-1kp3fr[title="ae"] + *::after,
 .uploadModal-2ifh8j .icon-kyxXVr.ae-1Y5Jq3::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/files_ae_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/files_ae_accent.svg) center/contain no-repeat;
 }
 .attachment-33OFj0 .icon-1kp3fr[title="ai"] + *::after,
 .uploadModal-2ifh8j .icon-kyxXVr.ai-11KAaB::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/files_ai_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/files_ai_accent.svg) center/contain no-repeat;
 }
 .attachment-33OFj0 .icon-1kp3fr[title="archive"] + *::after,
 .uploadModal-2ifh8j .icon-kyxXVr.archive-2hqXug::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/files_archive_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/files_archive_accent.svg) center/contain no-repeat;
 }
 .attachment-33OFj0 .icon-1kp3fr[title="audio"] + *::after,
 .audioMetadata-3zOuGv > *:first-child::after,
 .uploadModal-2ifh8j .icon-kyxXVr.audio-14DQXq::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/files_audio_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/files_audio_accent.svg) center/contain no-repeat;
 }
 .attachment-33OFj0 .icon-1kp3fr[title="code"] + *::after,
 .uploadModal-2ifh8j .icon-kyxXVr.code-aoB-kL::after,
 .uploadModalIn-1z07Bv .icon-kyxXVr.two-3BBQI9::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/files_code_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/files_code_accent.svg) center/contain no-repeat;
 }
 .attachment-33OFj0 .icon-1kp3fr[title="document"] + *::after,
 .uploadModal-2ifh8j .icon-kyxXVr.document-2cvI0u::after, 
 .uploadModalIn-1z07Bv .icon-kyxXVr.three-27ScFD::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/files_document_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/files_document_accent.svg) center/contain no-repeat;
 }
 .attachment-33OFj0 .icon-1kp3fr[title="photoshop"] + *::after,
 .attachment-33OFj0 .icon-1kp3fr[title="ps"] + *::after,
 .uploadModal-2ifh8j .icon-kyxXVr.photoshop-1UWfyZ::after,
 .uploadModal-2ifh8j .icon-kyxXVr.ps-2T6Jrl::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/files_photoshop_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/files_photoshop_accent.svg) center/contain no-repeat;
 }
 .attachment-33OFj0 .icon-1kp3fr[title="sketch"] + *::after,
 .uploadModal-2ifh8j .icon-kyxXVr.sketch-ZMuo7D::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/files_sketch_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/files_sketch_accent.svg) center/contain no-repeat;
 }
 .attachment-33OFj0 .icon-1kp3fr[title="spreadsheet"] + *::after,
 .uploadModal-2ifh8j .icon-kyxXVr.spreadsheet-1QuSej::after,
 .uploadModalIn-1z07Bv .icon-kyxXVr.one-2crnLX::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/files_spreadsheet_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/files_spreadsheet_accent.svg) center/contain no-repeat;
 }
 .attachment-33OFj0 .icon-1kp3fr[title="video"] + *::after,
 .uploadModal-2ifh8j .icon-kyxXVr.video-27RLEH::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/files_video_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/files_video_accent.svg) center/contain no-repeat;
 }
 .attachment-33OFj0 .icon-1kp3fr[title="webcode"] + *::after,
 .uploadModal-2ifh8j .icon-kyxXVr.webcode-22GGLX::after {
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/files_webcode_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/files_webcode_accent.svg) center/contain no-repeat;
 }
 
 /* ----		10.5.	KEYBOARDSHORTCUTSMODAL			---- */
@@ -1204,7 +1204,7 @@
 .ddrArrows-lSnH7P .arrow-2enltQ {
 	position: relative;
 	animation: none !important;
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/keybinds_arrows_bg.svg) center/contain no-repeat !important;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/keybinds_arrows_bg.svg) center/contain no-repeat !important;
 }
 .ddrArrows-lSnH7P .arrow-2enltQ::after {
 	content: "";
@@ -1213,7 +1213,7 @@
 	left: 0;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/keybinds_arrows_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/keybinds_arrows_accent.svg) center/contain no-repeat;
 }
 .ddrArrows-lSnH7P .arrow-2enltQ.down-2Ju7Q_ {
 	transform: rotate(270deg);
@@ -1234,7 +1234,7 @@
 
 .authBox-hW6HRx img[src="/assets/0f4d1ff76624bb45a3fee4189279ee92.svg"] {
 	object-position: -999999px -999999px;
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/login_authbox_bg.svg) center/cover no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/login_authbox_bg.svg) center/cover no-repeat;
 }
 .authBox-hW6HRx img[src="/assets/0f4d1ff76624bb45a3fee4189279ee92.svg"] + * {
 	position: relative;
@@ -1249,7 +1249,7 @@
 	height: 84px;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/login_authbox_mask.svg) center/cover no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/login_authbox_mask.svg) center/cover no-repeat;
 }
 
 .startOverButton-3q0wUV {									/* authobox				startover								*/
@@ -1305,7 +1305,7 @@
 	object-position: -999999px -999999px;
 	width: 96px;
 	height: 60px;
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_boostheader_bg.svg) center/cover no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_boostheader_bg.svg) center/cover no-repeat;
 }
 .headerGraphic-nVhv-X[src="/assets/50f02014a2ac385c90461d9a4b80e482.svg"] + *:not(svg),
 .headerGraphic-nVhv-X[src="/assets/50f02014a2ac385c90461d9a4b80e482.svg"] + svg + * {
@@ -1321,7 +1321,7 @@
 	height: 60px;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor2));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_boostheader_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_boostheader_accent.svg) center/cover no-repeat;
 }
 .badgeIconWithSubscribers-3PlMu9 {							/* modal				sub badge icon						*/
 	color: rgb(var(--vaccentcolor2));
@@ -1376,11 +1376,11 @@
 	pointer-events: none;
 }
 .wrapper-3nSjSv::before {
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_boostangel_bg.svg) center/cover no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_boostangel_bg.svg) center/cover no-repeat;
 }
 .wrapper-3nSjSv::after {
 	background: rgb(var(--vaccentcolor2));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/guildsettings_boostangel_accent.svg) center/cover no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/guildsettings_boostangel_accent.svg) center/cover no-repeat;
 }
 .tierMarkerLabelPlusIcon-1OS7E9 {							/* modal				prebuy icon							*/
 	color: rgb(var(--vaccentcolor2));
@@ -1465,7 +1465,7 @@
 /* ----		10.14.	CUSTOMSTATUSMODAL				---- */
 
 .art-347BZj {
-	background: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/customstatus_header_bg.svg) center/contain no-repeat;
+	background: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/customstatus_header_bg.svg) center/contain no-repeat;
 }
 .art-347BZj::after {
 	content: "";
@@ -1476,7 +1476,7 @@
 	left: 0;
 	pointer-events: none;
 	background: rgb(var(--vaccentcolor));
-	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/customstatus_header_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/customstatus_header_accent.svg) center/contain no-repeat;
 }
 
 
@@ -1831,12 +1831,12 @@
 [style*="/assets/f78426a064bc9dd24847519259bc42af.png"],
 [src*="/assets/f78426a064bc9dd24847519259bc42af.png"] {		/* avatars				clyde								*/
 	object-position: -999999px -999999px;
-	background: rgb(var(--vaccentcolor)) url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/clydeicon_details.svg) center/contain no-repeat !important;
+	background: rgb(var(--vaccentcolor)) url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/clydeicon_details.svg) center/contain no-repeat !important;
 }
 [style*="/assets/6debd47ed13483642cf09e832ed0bc1b.png"],
 [src*="/assets/6debd47ed13483642cf09e832ed0bc1b.png"] {		/* avatars				blue discord						*/
 	object-position: -999999px -999999px;
-	background: rgb(var(--vaccentcolor)) url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/blurplediscordicon_details.svg) center/contain no-repeat !important;
+	background: rgb(var(--vaccentcolor)) url(https://fran4esk0.github.io/Discord_Better_Themes/uploads/generator/resources/blurplediscordicon_details.svg) center/contain no-repeat !important;
 }
 
 /* ----		12.6.	SCROLLBARS						---- */
