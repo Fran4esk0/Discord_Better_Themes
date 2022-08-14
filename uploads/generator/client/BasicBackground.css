@@ -1,7 +1,7 @@
-@import url(https://vsthemes.org/uploads/generator/client/ThemeDevBadge.css);
-@import url(https://vsthemes.org/uploads/generator/client/SettingsIcons.css);
-@import url(https://vsthemes.org/uploads/generator/client/BlurpleRecolor.css);
-@import url(https://vsthemes.org/uploads/generator/client/usrbg.css);
+@import url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/client/ThemeDevBadge.css);
+@import url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/client/SettingsIcons.css);
+@import url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/client/BlurpleRecolor.css);
+@import url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/client/usrbg.css);
 
 :root {
 	--dtransparencycolor:			0,0,0;
@@ -14,7 +14,7 @@
 	--dfont:						Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
 	--dtextshadow:					transparent;
 	
-	--dbackground:					url(https://vsthemes.org/uploads/generator/preview.jpeg);
+	--dbackground:					url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/preview.jpeg);
 	--dbackgroundsize:				cover;
 	--dbackgroundposition:			center;
 	--dblur:						unset;
@@ -2288,7 +2288,7 @@ body::before {
 .bd-social-logo {
 	opacity: 1;
 	background: rgb(var(--fontwhite3));
-	-webkit-mask: url(https://vsthemes.org/uploads/generator/resources/settings_icons_betterdiscord.svg) center/contain no-repeat;
+	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/settings_icons_betterdiscord.svg) center/contain no-repeat;
 	transition: background .15s ease;
 }
 .bd-social-link:hover .bd-social-logo {
@@ -2482,7 +2482,7 @@ body::before {
 }
 
 .container-3PXSwK {											/* voicesettings		voicebarcontainer					*/
-	-webkit-mask: url(https://vsthemes.org/uploads/generator/resources/voice_level_bar.svg);
+	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/voice_level_bar.svg);
 }
 .notches-1sAcEM {
 	background: transparent !important;
@@ -2821,7 +2821,7 @@ body::before {
 	bottom: 0;
 	left: 0;
 	background-color: rgba(var(--vtransparencycolor), 0.5);
-	-webkit-mask: url(https://vsthemes.org/uploads/generator/resources/discord_window_placeholder.svg) 0 0/cover no-repeat;
+	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/discord_window_placeholder.svg) 0 0/cover no-repeat;
 }
 #app-mount .exampleModal-2oh58d,							/* communitysettings	rules		examplemodal			*/
 #app-mount .exampleModal-2X2Vf8 {							/* communitysettings	welcome		examplemodal			*/
@@ -7030,14 +7030,14 @@ html .bd-toast.toast-warn.icon::before {
 	width: 16px;
 	height: 16px;
 	padding: 0;
-	-webkit-mask: url(https://vsthemes.org/uploads/generator/resources/fav_star_empty.svg) center/contain no-repeat;
+	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/fav_star_empty.svg) center/contain no-repeat;
 }
 #app-mount .fav:hover,
 #app-mount .fav.active {
 	background: #faa61a;
 }
 #app-mount .fav.active {
-	-webkit-mask: url(https://vsthemes.org/uploads/generator/resources/fav_star.svg) center/contain no-repeat;
+	-webkit-mask: url(https://raw.githubusercontent.com/Fran4esk0/Discord_Better_Themes/main/uploads/generator/resources/fav_star.svg) center/contain no-repeat;
 }
 
 #app-mount .bd-modal-inner {								/* modal				container							*/
